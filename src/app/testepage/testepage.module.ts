@@ -18,7 +18,6 @@ import { TestepagePage } from './testepage.page';
   declarations: [TestepagePage]
 })
 export class TestepagePageModule {
-  TestepagePage.Mensagem();
-
+  
 
 }
